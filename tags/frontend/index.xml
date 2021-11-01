@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend on Presença Online .NET</title>
+    <link>https://presencaonline.net/tags/frontend/</link>
+    <description>Recent content in Frontend on Presença Online .NET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://presencaonline.net/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS para customizar WordPress</title>
+      <link>https://presencaonline.net/posts/css-para-customizar-wordpress/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/posts/css-para-customizar-wordpress/</guid>
+      <description>&lt;p&gt;Você sabia que existe a possibilidade de fazer uma customização no estilo de alguns temas do WordPress sem a necessidade de alterar o código do tema em si. Neste post mostramos como fazer pequenas alterações no CSS do site.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

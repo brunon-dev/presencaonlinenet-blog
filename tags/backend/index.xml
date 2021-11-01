@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Backend on Presença Online .NET</title>
+    <link>https://presencaonline.net/tags/backend/</link>
+    <description>Recent content in Backend on Presença Online .NET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://presencaonline.net/tags/backend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalar o Xampp no Mac, no Linux e no Windows</title>
+      <link>https://presencaonline.net/posts/instalar-o-xampp-no-mac-no-linux-e-no-windows/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/posts/instalar-o-xampp-no-mac-no-linux-e-no-windows/</guid>
+      <description>&lt;p&gt;Veja uma forma simples de ter o Apache, o PHP e o MySQL instalados e executando rapidamente no seu Mac, Linux ou Windows. Assim, você terá toda infraestrutura necessária para rodar o WordPress localmente.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

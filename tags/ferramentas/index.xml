@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ferramentas on Presença Online .NET</title>
+    <link>https://presencaonline.net/tags/ferramentas/</link>
+    <description>Recent content in Ferramentas on Presença Online .NET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://presencaonline.net/tags/ferramentas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalar o Xampp no Mac, no Linux e no Windows</title>
+      <link>https://presencaonline.net/posts/instalar-o-xampp-no-mac-no-linux-e-no-windows/</link>
+      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/posts/instalar-o-xampp-no-mac-no-linux-e-no-windows/</guid>
+      <description>&lt;p&gt;Veja uma forma simples de ter o Apache, o PHP e o MySQL instalados e executando rapidamente no seu Mac, Linux ou Windows. Assim, você terá toda infraestrutura necessária para rodar o WordPress localmente.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Conteúdo rápido para testar temas WordPress</title>
+      <link>https://presencaonline.net/posts/conteudo-rapido-para-testar-temas-wordpress/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/posts/conteudo-rapido-para-testar-temas-wordpress/</guid>
+      <description>&lt;p&gt;Conheça uma ferramenta que permite gerar conteúdo automático para fazer uma avaliação de temas WordPress sem muito esforço e complicação. Basta instalar um plugin e fazer as configurações básicas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Escolhendo um domínio de site para meu negócio</title>
+      <link>https://presencaonline.net/posts/escolhendo-um-dominio-de-site-para-meu-negocio/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/posts/escolhendo-um-dominio-de-site-para-meu-negocio/</guid>
+      <description>&lt;p&gt;Neste post vamos apresentar algumas ferramentas que podem te ajudar não apenas na escolha de domínio do seu site, quanto na escolha par redes sociais também, avaliando nomes que estejam disponíveis.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

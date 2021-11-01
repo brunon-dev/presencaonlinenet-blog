@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Presença Online .NET</title>
+    <link>https://presencaonline.net/categories/</link>
+    <description>Recent content in Categories on Presença Online .NET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 08 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://presencaonline.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress</title>
+      <link>https://presencaonline.net/categories/wordpress/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/categories/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing Digital</title>
+      <link>https://presencaonline.net/categories/marketing-digital/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/categories/marketing-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miscelânia</title>
+      <link>https://presencaonline.net/categories/miscel%C3%A2nia/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/categories/miscel%C3%A2nia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

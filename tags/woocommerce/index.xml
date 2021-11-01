@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WooCommerce on Presença Online .NET</title>
+    <link>https://presencaonline.net/tags/woocommerce/</link>
+    <description>Recent content in WooCommerce on Presença Online .NET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 27 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://presencaonline.net/tags/woocommerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Métodos de Pagamento para WooCommerce</title>
+      <link>https://presencaonline.net/posts/metodos-de-pagamento-para-woocommerce/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://presencaonline.net/posts/metodos-de-pagamento-para-woocommerce/</guid>
+      <description>&lt;p&gt;Veja neste post alguns dos principais plugins do WordPress para habilitar meios de pagamento em lojas online usando WooCommerce. São apresentadas algumas opções interessantes e de fácil configurações incrementar seu e-commerce&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
